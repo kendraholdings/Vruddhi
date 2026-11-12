@@ -1,0 +1,552 @@
+{
+  ".wrangler/cache/pages.json": {
+    "mtime": 1793190210.9725392,
+    "ast_hash": "b12d87942c5c0f397b67030e0377aae8",
+    "semantic_hash": ""
+  },
+  ".wrangler/cache/wrangler-account.json": {
+    "mtime": 1793190174.8599567,
+    "ast_hash": "b9ee2dac3d76c9dd1c51e0dfacd6196a",
+    "semantic_hash": ""
+  },
+  "sites/apex/script.js": {
+    "mtime": 1789626622.903812,
+    "ast_hash": "2615065c0dd1c1eb88592d32e01f9bae",
+    "semantic_hash": ""
+  },
+  "sites/study/script.js": {
+    "mtime": 1793188814.2584693,
+    "ast_hash": "19f491494a8ab608a457f5eb9fd73afd",
+    "semantic_hash": ""
+  },
+  "sites/apex/index.html": {
+    "mtime": 1789626894.1921656,
+    "ast_hash": "592a509c6635229a113b82f9349f67f3",
+    "semantic_hash": ""
+  },
+  "sites/study/index.html": {
+    "mtime": 1793190558.469105,
+    "ast_hash": "7ae5ef57c31002471569381711d1dba4",
+    "semantic_hash": ""
+  },
+  "sites/work/index.html": {
+    "mtime": 1789562596.5648713,
+    "ast_hash": "638a6f3a7ba9e937220cf9a4f5aa1a0f",
+    "semantic_hash": ""
+  },
+  "sites/apex/assets/vruddhi-logo.jpg": {
+    "mtime": 1789562559.0444744,
+    "ast_hash": "0ad2d6f520ac579e3b08bf1b5f94ec5c",
+    "semantic_hash": ""
+  },
+  "sites/work/assets/vruddhi-logo.jpg": {
+    "mtime": 1789562559.046662,
+    "ast_hash": "0ad2d6f520ac579e3b08bf1b5f94ec5c",
+    "semantic_hash": ""
+  },
+  "sites/apex/assets/space-01.webp": {
+    "mtime": 1789625754.404422,
+    "ast_hash": "47ce2f9f895d1ad5a8bbb9c21bc4afe8",
+    "semantic_hash": ""
+  },
+  "sites/apex/assets/space-02.webp": {
+    "mtime": 1789625754.4126685,
+    "ast_hash": "e12900bba5624fe2db5e74e5433bb6cf",
+    "semantic_hash": ""
+  },
+  "sites/apex/assets/space-03.webp": {
+    "mtime": 1789625754.427716,
+    "ast_hash": "3e698c3a4884c509364fdfe19a24457b",
+    "semantic_hash": ""
+  },
+  "sites/apex/assets/space-04.webp": {
+    "mtime": 1789625754.4409456,
+    "ast_hash": "d3ad99ca7c47891dc40f05548f130a2b",
+    "semantic_hash": ""
+  },
+  "sites/apex/assets/space-05.webp": {
+    "mtime": 1789625754.4455268,
+    "ast_hash": "3ca382aeae7fc90e19897db62742ebc4",
+    "semantic_hash": ""
+  },
+  "sites/apex/assets/space-06.webp": {
+    "mtime": 1789625754.4592512,
+    "ast_hash": "474db55274ffc620b38fcab159e3bcc6",
+    "semantic_hash": ""
+  },
+  "sites/apex/assets/space-07.webp": {
+    "mtime": 1789625754.4643774,
+    "ast_hash": "1eaacba9c75944eebca79fdddb19f286",
+    "semantic_hash": ""
+  },
+  "sites/apex/assets/space-08.webp": {
+    "mtime": 1789625754.4763381,
+    "ast_hash": "a023aa7630210e94801e0ff4f4f6e5f8",
+    "semantic_hash": ""
+  },
+  "skills-lock.json": {
+    "mtime": 1789587122.2677596,
+    "ast_hash": "1fdb54277684f41969c8d0aad8f2329f",
+    "semantic_hash": ""
+  },
+  ".agents/skills/brandkit/SKILL.md": {
+    "mtime": 1789587122.1302323,
+    "ast_hash": "cd3701c774e9bd7ce4fc9078377d517f",
+    "semantic_hash": ""
+  },
+  ".agents/skills/design-taste-frontend-v1/SKILL.md": {
+    "mtime": 1789587122.1524518,
+    "ast_hash": "d0ee97b35983cf5e786e5b65994a2ecb",
+    "semantic_hash": ""
+  },
+  ".agents/skills/design-taste-frontend/SKILL.md": {
+    "mtime": 1789587122.1429493,
+    "ast_hash": "6f73606d20cd948b471b1ce1767aab50",
+    "semantic_hash": ""
+  },
+  ".agents/skills/full-output-enforcement/SKILL.md": {
+    "mtime": 1789587122.1612403,
+    "ast_hash": "5ed528ceb72c5d089757ba70c5a434e8",
+    "semantic_hash": ""
+  },
+  ".agents/skills/gpt-taste/SKILL.md": {
+    "mtime": 1789587122.1693146,
+    "ast_hash": "0968d17fda872b36dc35e6bcc0c9af36",
+    "semantic_hash": ""
+  },
+  ".agents/skills/high-end-visual-design/SKILL.md": {
+    "mtime": 1789587122.1775205,
+    "ast_hash": "269e37851b3a17693d8052f5f8002cfc",
+    "semantic_hash": ""
+  },
+  ".agents/skills/image-to-code/SKILL.md": {
+    "mtime": 1789587122.1851008,
+    "ast_hash": "442613e4710f0005b94f1c4b1d3ac246",
+    "semantic_hash": ""
+  },
+  ".agents/skills/imagegen-frontend-mobile/SKILL.md": {
+    "mtime": 1789587122.1926475,
+    "ast_hash": "4c84e37e50e610779a71e0fb0a198963",
+    "semantic_hash": ""
+  },
+  ".agents/skills/imagegen-frontend-web/SKILL.md": {
+    "mtime": 1789587122.2136276,
+    "ast_hash": "208c5866f7320c7f842283b312a00e17",
+    "semantic_hash": ""
+  },
+  ".agents/skills/industrial-brutalist-ui/SKILL.md": {
+    "mtime": 1789587122.227643,
+    "ast_hash": "9e673477ecc2eaf4a230c8326cbc2f0d",
+    "semantic_hash": ""
+  },
+  ".agents/skills/minimalist-ui/SKILL.md": {
+    "mtime": 1789587122.2367086,
+    "ast_hash": "c7f814d7df4b1b0e3eebf706a6d74adf",
+    "semantic_hash": ""
+  },
+  ".agents/skills/redesign-existing-projects/SKILL.md": {
+    "mtime": 1789587122.2459993,
+    "ast_hash": "31d802d02ccb9f5da82d99156af36317",
+    "semantic_hash": ""
+  },
+  ".agents/skills/stitch-design-taste/DESIGN.md": {
+    "mtime": 1789587122.259862,
+    "ast_hash": "ee7cc02dcc99eda38299a5a6f6727563",
+    "semantic_hash": ""
+  },
+  ".agents/skills/stitch-design-taste/SKILL.md": {
+    "mtime": 1789587122.2597408,
+    "ast_hash": "82dc71a62461f956b5666c1041efc886",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/1ZyMH4gRFc1.js": {
+    "mtime": 1789625143.6931274,
+    "ast_hash": "c7d4c4f95c59496365648cec3993224e",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/3mG3MXa4uzB.js": {
+    "mtime": 1789625143.0296948,
+    "ast_hash": "b1b6a09a72d1db6de4cdb2e27803e183",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/5-yIJpO0rwx.js": {
+    "mtime": 1789625143.977536,
+    "ast_hash": "5e43fe5886f499d8a1f8c09c5f442338",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/5CKbiEQTtX3.js": {
+    "mtime": 1789625143.5525692,
+    "ast_hash": "8bbfb76798b44ac4b33f3b4a87ae466a",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/74CzMLPteo0.js": {
+    "mtime": 1789625142.962123,
+    "ast_hash": "607d62410003fd85b01b8e78edf73739",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/8cp5ohxX4Dl.js": {
+    "mtime": 1789625144.0556855,
+    "ast_hash": "f6d4df8f717c9c1496904b60e09a0ec3",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/8wypiAW_bfk.js": {
+    "mtime": 1789625142.9806046,
+    "ast_hash": "2f91cdf34a168a2f2206494f47bd4448",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/AItCCiF16QG.js": {
+    "mtime": 1789625143.648711,
+    "ast_hash": "e32cdf2b061392b75aa901c995fec984",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/CHZs6H5SRMc.js": {
+    "mtime": 1789625143.5026057,
+    "ast_hash": "b95f8140580fd386b33bde7fb99c5139",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/C_OJ3ZA4zE_.js": {
+    "mtime": 1789625143.7326074,
+    "ast_hash": "24dbfad17cbd33ca969959301422fc39",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/F72Of3W37eD.js": {
+    "mtime": 1789625144.03672,
+    "ast_hash": "b915a54594afc66d9cff5a4b08989a40",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/GCQaBzQHSJgvXYyWnQjFR_Rwu7FV0WEjb_tP8RqLfFtQ4kQks7bqi63wdAUdgPIfDMAItCCiF16QG4ZNVFxw0vLRLnn7tBMTl5FudqfFtb79mZNvQDRPc1XxNXHyI2XjAmp22n87EbHXbyr1ZyMH4gRFc1t6EUyXVxRVTHeTpzl7afy00Fh5odwEdHhXOzrtJmFjYarrCxjEFdRGjiFGHh9ozlMItb1mMgTH2iQVdHbLPUnYYa-J-kT-9qH3.js": {
+    "mtime": 1789625143.8420544,
+    "ast_hash": "3009ade7097ed8d4c0f688e87e4a1c9c",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/HeTpzl7afy0.js": {
+    "mtime": 1789625143.7538242,
+    "ast_hash": "aada11bed9a5d94bb7a3958528451a41",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/HiOmOXTXv-l.js": {
+    "mtime": 1789625143.3398585,
+    "ast_hash": "06325bd29ce74c2d221f466b31f92f56",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/IXQGx3ZX9zm.js": {
+    "mtime": 1789625143.6259658,
+    "ast_hash": "359d7dff4567d55131a0fbafa65034ae",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/K484oCo5QFU(1).js": {
+    "mtime": 1789625143.1526527,
+    "ast_hash": "ecbb8652f88946e9236df01af2389be6",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/K484oCo5QFU.js": {
+    "mtime": 1789625142.940033,
+    "ast_hash": "ecbb8652f88946e9236df01af2389be6",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/KO4z9J3Q73z.js": {
+    "mtime": 1789625143.0042253,
+    "ast_hash": "1120cbf3efabd9740b20eb8786f3747b",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/Kefep_2EcUy0_uye9hpj8kLs89NWCcDEcTnUY63CpDbTRlQL5SXd0MwEj5oSDgh9rmtdWvHj6c6SW_ix2SB3dctYCY-HA_w--zNuu3i-6t6VQlk1FJQoc8itQPiHeKDOnrZW0F227RHCI5hKGwDgR89SoUdoKK8JAkoXMzFuDEFp9lbdVCD-kXtz_P--6WbiBCT8LX48eZFaVWgE9aS3U1SU3bxDe0qnL2dG90HRtKQGwG0ihE-Qx8lcabVT.js": {
+    "mtime": 1789625143.3095737,
+    "ast_hash": "474c4488c05430cc6cfd0179af85fbbf",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/MOZsV44WqNm.js": {
+    "mtime": 1789625144.0928242,
+    "ast_hash": "d37631f651c9c1ba2e41086ce601d22f",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/NvQDRPc1XxN.js": {
+    "mtime": 1789625143.6721244,
+    "ast_hash": "2d1ebed3f75d0872462b448c2f3aabbe",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/SIoq4mQ7RDh.js": {
+    "mtime": 1789625143.924101,
+    "ast_hash": "e74763b447463d1ec4b848b575333e27",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/ZhWo-K1ICb8.js": {
+    "mtime": 1789625143.4362748,
+    "ast_hash": "f8c58fbbda855d766c890f6006ede52b",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/ZzdlDM25HcG.js": {
+    "mtime": 1789625143.414062,
+    "ast_hash": "3842723250e51735f166a711f3c443d9",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/_dI9fPVv_VZ.js": {
+    "mtime": 1789625144.0760214,
+    "ast_hash": "df1bd39996d17b83ff176c17443cbf92",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/bIcPFlEiOMb.js": {
+    "mtime": 1789625143.0511901,
+    "ast_hash": "0bb91e2cec4c59524e9a3e39b68ac430",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/es3DQO82Ddw.js": {
+    "mtime": 1789625144.0177095,
+    "ast_hash": "926045010ee3d57ca3068e7e04f39aea",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/gdSDfTh95qt7RK3JlU5P9TlGAirDTiaSwm7ynRpFPFF-wpfEKZ-1LyHwKkJjRq3gH8nZBS3hTTKtj0roy8OKv9CmOg-7nJZPlMeAGK-rvBHU1eA4SY7X_le4YcFHYNokwDXkv6q_U9rpuwq65F8VQprIY22jNWFSE8rO5.js": {
+    "mtime": 1789625143.3695092,
+    "ast_hash": "f406478ca3f2d6b7e03fe9191e2b7afd",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/jvz59YA0P2bSmWJiYuHCZ3wgdFtYLiOyjxjk6vIPS2Koa6_fnADkkT1w1d9s_8UiX9iTyYyfJnb9xTxTvep2LFN5SfXAAQK2eQNRAB8s_HNdq88VKK6zCYTx0q3NXIb5v9BNMCOkzcOj80LKuc9Nnu8Y35phhshD5-sc1x6Fvss_EVcXCLTkX3BTDvLia7hA_isA-d41Vk-2zIB3TlGAi7aOZiAIC_OJ3ZA4zE_vJdHXKoX2X7yxdkJx4O5N.js": {
+    "mtime": 1789625143.8720279,
+    "ast_hash": "e4fca3f4fae89c240f940972fe878143",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/k-ylfPqf5fL.js": {
+    "mtime": 1789625143.4586418,
+    "ast_hash": "7a9c91750231d4a45630b375458d562d",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/k4S2MFKcL1U.js": {
+    "mtime": 1789625143.0716312,
+    "ast_hash": "ae3f9061268b1d1a8afe99604bb6336b",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/kMO97OWzhIt.js": {
+    "mtime": 1789625143.9494922,
+    "ast_hash": "17542ef40043fe4226e9642c2b4cf84b",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/mbtqWc2n5DV.js": {
+    "mtime": 1789625143.8947463,
+    "ast_hash": "1dfd5ccf095270bfa8ef5918e9667a08",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/psQdOaB17utKHreLFnnrQc-FB2nj5liUG_gY05fV59CE2hGsTQsuAP4KkbAl_uzggd5tbEWbTlRAQbbEBlcEwpteogQ493PUPmV2HgVS1yDM-wJvBW_JJiBq2yWr65qRUzSW7a3hLFiBpWne3HZOtGlp_-ISxDPsN53kb0HBVFmYuetKmEoxr2D2DQ6650kY9gBberXi4YQTTZBct7yeCIqfmAZLCrr6JkGIVzivMGSK83uEipN9-k3fw57_.js": {
+    "mtime": 1789625143.272526,
+    "ast_hash": "f4616fc4180bc11e665a11184aba7a8a",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/rrCxjEFdRGj.js": {
+    "mtime": 1789625143.7135496,
+    "ast_hash": "3137ef74e5628d1029a1e05081d351d1",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/tb1mMgTH2iQ.js": {
+    "mtime": 1789625143.6045525,
+    "ast_hash": "74dc65738fd4765d98b3acbc1f314fc8",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/tk7G9cceczT.js": {
+    "mtime": 1789625143.5790393,
+    "ast_hash": "5a8b2d6c6260290ebe3ae692f308126e",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/u7ltBcVnXkZ.js": {
+    "mtime": 1789625143.9997952,
+    "ast_hash": "672702e22e5b5f0b97a76418866715a2",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/wF1SNS08GrI.js": {
+    "mtime": 1789625143.3928833,
+    "ast_hash": "3575b535306015b75d4c015edef6188e",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/wrOqRWCIkx6.js": {
+    "mtime": 1789625143.4803524,
+    "ast_hash": "b8a9d23fc6badf84eb83f55f303d545a",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo.html": {
+    "mtime": 1789625145.267979,
+    "ast_hash": "459739c83d9b3a56736a983838d875c5",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/saved_resource.html": {
+    "mtime": 1789625145.2600253,
+    "ast_hash": "41c3869c750026292481d66d2cac1857",
+    "semantic_hash": ""
+  },
+  "sites/apex/assets/map-spotlight.jpg": {
+    "mtime": 1789588732.6324432,
+    "ast_hash": "dfaa6aee6d4421d7e220b691d5bd238b",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/426347500_375097965153182_5479578010236855629_n(1).jpg": {
+    "mtime": 1789625145.2500567,
+    "ast_hash": "0ad2d6f520ac579e3b08bf1b5f94ec5c",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/426347500_375097965153182_5479578010236855629_n.jpg": {
+    "mtime": 1789625144.226398,
+    "ast_hash": "1e4385cccaa30c5a8c5c26bb519558b5",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/464547880_1977083876136202_3695967558744776056_n.jpg": {
+    "mtime": 1789625145.1147423,
+    "ast_hash": "c7090ae22d60d078a932b160669aa52d",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/469401666_17887222896153321_4230730077892328828_n.jpg": {
+    "mtime": 1789625144.8797596,
+    "ast_hash": "9947d09f6e8666c5847a8eef7915308b",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/471595709_1112425063717551_482597758923972540_n.jpg": {
+    "mtime": 1789625144.270514,
+    "ast_hash": "59865e0616c1328410fc745d5191d705",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/472401678_17891389620153321_9072236636056453348_n.jpg": {
+    "mtime": 1789625144.7962482,
+    "ast_hash": "ca1fdf908f63927eb80e3c4e4d1ce675",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/476374903_923688426636629_6443618141403762908_n.jpg": {
+    "mtime": 1789625144.3337774,
+    "ast_hash": "3c591e4a79d59bafcc433cc4774fbc1b",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/482485480_1371467350546974_7263309215765816281_n.jpg": {
+    "mtime": 1789625144.7472644,
+    "ast_hash": "366f582471d2acab853002033909e9da",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/487380460_17901305523153321_6823511190117935671_n.jpg": {
+    "mtime": 1789625144.684393,
+    "ast_hash": "4fee4f8fced78b269b67de6b8bc22ab2",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/496395373_17868055320370292_8644597758970577356_n.jpg": {
+    "mtime": 1789625145.2302077,
+    "ast_hash": "f142e7a109ca4040ee9086caac1c3bf3",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/501435402_1882176015940705_1669552959396674577_n.jpg": {
+    "mtime": 1789625145.0537865,
+    "ast_hash": "75e2963de07f9809f547005309a152e6",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/501982735_1441709093515267_5959440940463794201_n.jpg": {
+    "mtime": 1789625144.9440122,
+    "ast_hash": "926b975736a6ea06010f0d3f6ef8ff96",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/503851182_4180876835526678_6332567060512047360_n.jpg": {
+    "mtime": 1789625144.9693577,
+    "ast_hash": "d71a6c8aa92ec1a81baeba364b373cba",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/556535756_17922554445153321_2874527724998029958_n.jpg": {
+    "mtime": 1789625144.5467155,
+    "ast_hash": "f99b9fa9ce400019f394f268b37f2be3",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/573625056_1612094363102882_1653071206589492625_n.jpg": {
+    "mtime": 1789625144.3534694,
+    "ast_hash": "420e257fba1ebc8f3046b49252877190",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/573730601_17926228494153321_6021017868492477022_n.jpg": {
+    "mtime": 1789625144.4796844,
+    "ast_hash": "c6178a7a42eed5d091295efc7dd5628f",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/589177037_1424702349270730_6240110540971327217_n.jpg": {
+    "mtime": 1789625144.417158,
+    "ast_hash": "3300a2d972e0d7bda11fc626383b9c85",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/622619167_18081068156252768_294505535621267045_n.jpg": {
+    "mtime": 1789625144.8308911,
+    "ast_hash": "feef78ba866c86327508392656b24bbb",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/623380353_17990440007870273_1081316643609462533_n.jpg": {
+    "mtime": 1789625145.0992756,
+    "ast_hash": "646b1c380c4b0d46623c270fcca232cb",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/624715259_17995127693739034_5978954061004923497_n.jpg": {
+    "mtime": 1789625145.0812278,
+    "ast_hash": "2f90215b36c76f38c5a0adc95cecea09",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/625050769_18126537280534496_3274855678652390463_n.jpg": {
+    "mtime": 1789625144.9148645,
+    "ast_hash": "ed0e66ba7bc561ecbe8a254cf4a6f93e",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/627820815_18381833203082278_5417572175386775280_n.jpg": {
+    "mtime": 1789625144.988833,
+    "ast_hash": "5befd728814d64b22c3eea22ab82e71d",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/658917441_18072176582292101_419178030987002116_n.jpg": {
+    "mtime": 1789625144.165332,
+    "ast_hash": "ba93b129f20f94d33a67f072dac31b47",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/Vruddhi Study Centre Logo_files/801962795_18110017202114141_3121935645907944037_n.jpg": {
+    "mtime": 1789625145.1664908,
+    "ast_hash": "f08666afe8b0ee24c334a422569a4fe8",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/space-01.webp": {
+    "mtime": 1789586797.9930668,
+    "ast_hash": "47ce2f9f895d1ad5a8bbb9c21bc4afe8",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/space-02.webp": {
+    "mtime": 1789586797.9950774,
+    "ast_hash": "e12900bba5624fe2db5e74e5433bb6cf",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/space-03.webp": {
+    "mtime": 1789586797.9969893,
+    "ast_hash": "3e698c3a4884c509364fdfe19a24457b",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/space-04.webp": {
+    "mtime": 1789586797.9988127,
+    "ast_hash": "d3ad99ca7c47891dc40f05548f130a2b",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/space-05.webp": {
+    "mtime": 1789586798.00065,
+    "ast_hash": "3ca382aeae7fc90e19897db62742ebc4",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/space-06.webp": {
+    "mtime": 1789586798.002585,
+    "ast_hash": "474db55274ffc620b38fcab159e3bcc6",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/space-07.webp": {
+    "mtime": 1789586798.005079,
+    "ast_hash": "1eaacba9c75944eebca79fdddb19f286",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/space-08.webp": {
+    "mtime": 1789586798.007136,
+    "ast_hash": "a023aa7630210e94801e0ff4f4f6e5f8",
+    "semantic_hash": ""
+  },
+  "sites/study/fonts/OFL-DMMono.txt": {
+    "mtime": 1792244146.1931784,
+    "ast_hash": "0eadb467f2d51c05ba4f732c780058d1",
+    "semantic_hash": ""
+  },
+  "sites/study/fonts/OFL-Manrope.txt": {
+    "mtime": 1792244145.6669528,
+    "ast_hash": "a216ac8723e9b95b204d3bc619ebcabd",
+    "semantic_hash": ""
+  },
+  "sites/study/assets/vruddhi-logo.png": {
+    "mtime": 1793190402.5583453,
+    "ast_hash": "490393b32cac3e738a9bf49488d9b901",
+    "semantic_hash": ""
+  }
+}
