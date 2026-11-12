@@ -35,3 +35,15 @@ footer{flex-wrap:wrap;align-items:center;gap:22px}
 .price-grid .price-card .button-dark{margin-top:auto}
 .price-grid .price-card ul{flex:1}
 .price-grid .deposit,.price-grid .price-note{min-height:2.6em}
+
+.legal-header{position:relative;color:var(--ink);background:var(--paper);border-bottom:1px solid var(--line)}
+.legal-header .logo-frame{border-color:rgba(16,45,48,.2)}
+.legal{width:min(720px,calc(100% - 44px));margin:0 auto;padding:48px 0 88px}
+.legal h1{font-size:clamp(42px,7vw,72px);line-height:.95;letter-spacing:-.07em;margin:18px 0 12px;font-weight:800}
+.legal-updated{margin:0 0 36px;font:11px 'DM Mono',monospace;letter-spacing:.06em;color:#496467}
+.legal-body section{margin-bottom:28px}
+.legal-body h2{font-size:18px;letter-spacing:-.03em;margin:0 0 10px}
+.legal-body p,.legal-body li{margin:0 0 12px;font-size:15px;line-height:1.75;color:#496467}
+.legal-body ul{margin:0;padding-left:1.2em}
+.footer-legal{font:10px 'DM Mono',monospace;letter-spacing:.07em;color:#b8d4d2;text-decoration:underline;text-underline-offset:3px}
+.footer-legal:hover{color:var(--lime)}
